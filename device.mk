@@ -362,8 +362,8 @@ PRODUCT_PACKAGES += \
     android.hardware.keymaster@4.1.vendor
 
 # KProfiles
-PRODUCT_PACKAGES += \
-    KProfiles
+#PRODUCT_PACKAGES += \
+#    KProfiles
 
 # VNDK
 PRODUCT_COPY_FILES += \
@@ -526,8 +526,8 @@ PRODUCT_DEXPREOPT_SPEED_APPS += \
     SystemUIGoogle
 
 # Touch
-PRODUCT_PACKAGES += \
-    vendor.lineage.touch@1.0-service.sony
+#PRODUCT_PACKAGES += \
+#    vendor.lineage.touch@1.0-service.sony
 
 # Update engine
 PRODUCT_PACKAGES += \
@@ -543,8 +543,8 @@ PRODUCT_PACKAGES += \
     android.hardware.usb@1.3-service-qti
 
 # Vendor libstdc++
-PRODUCT_PACKAGES += \
-    libstdc++.vendor
+#PRODUCT_PACKAGES += \
+#    libstdc++.vendor
 
 # Vendor service manager
 PRODUCT_PACKAGES += \
