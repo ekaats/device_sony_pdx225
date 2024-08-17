@@ -7,7 +7,7 @@ bt_fm_slim.ko
 btpower.ko
 bu520x1nvx.ko
 camera.ko
-cdsp-loader.ko
+# cdsp-loader.ko
 cdsprm.ko
 clk-aop-qmp.ko
 clk-rpmh.ko
